@@ -22,7 +22,7 @@ Este projeto é um validador de bandeira de cartão de crédito que identifica a
 
 1. Clone o repositório para o seu ambiente local:
     ```sh
-    git clone <https://github.com/Car-Lopes/Validador_Bandeira_Cartao_Credito>
+    git clone https://github.com/Car-Lopes/Validador_Bandeira_Cartao_Credito
     ```
 
 2. Navegue até o diretório do projeto:
